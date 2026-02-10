@@ -2,4 +2,5 @@ ls -> Lista Arquivos
 cd -> move direotrio
 pwd -> mostra o diretório 
 cat -> exibe conteúdo do arquivo
-rm -> remove arquivo ou diretorio
+rm -> remove arquivo ou diretório
+rm -f -> remove de forma forçada
