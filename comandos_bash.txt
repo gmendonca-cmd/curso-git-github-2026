@@ -1,0 +1,3 @@
+ls -> Lista Arquivos
+cd -> move direotrio
+pwd -> mostra o diretório 
